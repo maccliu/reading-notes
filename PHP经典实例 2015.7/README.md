@@ -1,4 +1,4 @@
-![](chapters/01 字符串.png)
+![](chapters/01-字符串.png)
 ![](chapters/02 数字.png)
 ![](chapters/03 日期和时间.png)
 ![](chapters/04 数组.png)
